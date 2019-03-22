@@ -1,0 +1,20 @@
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\bin\Release\Pharmacy service system.exe.config
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\bin\Release\Pharmacy service system.exe
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\bin\Release\Pharmacy service system.pdb
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\bin\Release\Google.Protobuf.dll
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\bin\Release\MySql.Data.dll
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\bin\Release\Google.Protobuf.xml
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\bin\Release\MySql.Data.xml
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy service system.csprojAssemblyReference.cache
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy_service_system.DisplayWindow.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy_service_system.LoginPage.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy_service_system.UserControl4.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy_service_system.UserControl5.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy_service_system.UserControl1.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy_service_system.UserControl2.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy_service_system.Properties.Resources.resources
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy service system.csproj.GenerateResource.cache
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy service system.csproj.CoreCompileInputs.cache
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy service system.csproj.CopyComplete
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy service system.exe
+C:\Users\Bereket\Desktop\#Fall 2018\CSC 340\Individual work\Pharmacy service system\Pharmacy service system\obj\Release\Pharmacy service system.pdb
