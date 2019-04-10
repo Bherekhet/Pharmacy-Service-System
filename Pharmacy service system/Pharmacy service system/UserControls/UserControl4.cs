@@ -75,6 +75,7 @@ namespace Pharmacy_service_system
             //string[] queriedPatientRecored = patObj.getPatientRecords(patientID);
 
             //connect the labels with the right patient record(information about patient)
+           
             labelFullName.Text = infoList[1];
             labelPatientGender.Text = infoList[2];
             labelAge.Text = infoList[3];
@@ -83,7 +84,7 @@ namespace Pharmacy_service_system
             labelSickness.Text = infoList[6];
             labelAllergies.Text = infoList[7];
             labelSpecial1.Text = infoList[8];
-            labelSpecial2.Text = infoList[9];
+            //labelSpecial2.Text = infoList[9];
             
         }
     }

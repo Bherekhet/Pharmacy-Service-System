@@ -213,13 +213,13 @@ namespace Pharmacy_service_system.Class
                     patientInfoList.Add(age = (myReader["Age"].ToString()));
                     patientInfoList.Add(phone = myReader["Phone"].ToString());
                     patientInfoList.Add(street1 = myReader["Street_1"].ToString());
-                    patientInfoList.Add(street2 = myReader["Street_2"].ToString());
-                    patientInfoList.Add(city = myReader["City"].ToString());
-                    patientInfoList.Add(state = myReader["State"].ToString());
-                    patientInfoList.Add(country = myReader["Country"].ToString());
+                    //patientInfoList.Add(street2 = myReader["Street_2"].ToString());
+                    //patientInfoList.Add(city = myReader["City"].ToString());
+                    //patientInfoList.Add(state = myReader["State"].ToString());
+                    //.Add(country = myReader["Country"].ToString());
                     //acceptedDate = DateTime.ParseExact(myReader["Accepted_Date"].ToString(), "yyyy-MM-dd", System.Globalization.CultureInfo.InvariantCulture);
                     patientInfoList.Add(sickness = myReader["Sickness"].ToString());
-                    patientInfoList.Add(prescriptions = (myReader["Prescriptions"].ToString()));
+                    //patientInfoList.Add(prescriptions = (myReader["Prescriptions"].ToString()));
                     patientInfoList.Add(allergies = myReader["Allergies"].ToString());
                     patientInfoList.Add(special_or_other = myReader["Special_or_Other"].ToString());
                 }

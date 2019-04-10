@@ -460,6 +460,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(188)))), ((int)(((byte)(156)))));
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.buttonViewPatientRecord);
             this.Controls.Add(this.listView1);

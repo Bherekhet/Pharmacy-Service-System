@@ -53,10 +53,10 @@
             this.label1 = new System.Windows.Forms.Label();
             this.listView2 = new System.Windows.Forms.ListView();
             this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.columnHeader7 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.panel3 = new System.Windows.Forms.Panel();
             this.label9 = new System.Windows.Forms.Label();
-            this.columnHeader7 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -336,6 +336,12 @@
             // 
             this.columnHeader1.Text = "Received from";
             // 
+            // columnHeader7
+            // 
+            this.columnHeader7.DisplayIndex = 2;
+            this.columnHeader7.Text = "Doctor Name";
+            this.columnHeader7.Width = 204;
+            // 
             // columnHeader2
             // 
             this.columnHeader2.DisplayIndex = 1;
@@ -363,16 +369,11 @@
             this.label9.TabIndex = 5;
             this.label9.Text = "Pharmacy Service  System";
             // 
-            // columnHeader7
-            // 
-            this.columnHeader7.DisplayIndex = 2;
-            this.columnHeader7.Text = "Doctor Name";
-            this.columnHeader7.Width = 204;
-            // 
             // UserControl5
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(188)))), ((int)(((byte)(156)))));
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.tabControl1);
             this.Margin = new System.Windows.Forms.Padding(4);

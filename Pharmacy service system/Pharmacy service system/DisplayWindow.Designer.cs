@@ -140,6 +140,7 @@
             // 
             // userControl11
             // 
+            this.userControl11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(188)))), ((int)(((byte)(156)))));
             this.userControl11.Location = new System.Drawing.Point(0, 0);
             this.userControl11.Margin = new System.Windows.Forms.Padding(5);
             this.userControl11.Name = "userControl11";
